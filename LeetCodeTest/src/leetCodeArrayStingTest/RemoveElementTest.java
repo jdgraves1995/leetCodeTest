@@ -1,8 +1,10 @@
-package leetCodeArraySting;
+package leetCodeArrayStingTest;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
+
+import leetCodeArraySting.RemoveElement;
 
 class RemoveElementTest {
 

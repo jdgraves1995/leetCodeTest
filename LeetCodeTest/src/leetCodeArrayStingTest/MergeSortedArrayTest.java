@@ -1,10 +1,12 @@
-package leetCodeArraySting;
+package leetCodeArrayStingTest;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.Arrays;
 
 import org.junit.jupiter.api.Test;
+
+import leetCodeArraySting.MergeSortedArray;
 
 class MergeSortedArrayTest {
 
